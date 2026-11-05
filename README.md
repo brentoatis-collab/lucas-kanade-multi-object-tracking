@@ -179,7 +179,7 @@ week5_optical_flow_tracking/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/week5-optical-flow-tracking.git
+git clone https://github.com/brentoatis-collab/lucas-kanade-multi-object-tracking.git
 ```
 
 Navigate to the project folder:
@@ -248,6 +248,6 @@ Biswas, D. (2022). *Lucas-Kanade Method for Optical Flow*. Medium. https://dibye
 ## Author
 
 **Brent Oatis**  
-MBA Candidate | Artificial Intelligence Graduate Student  
+MBA | Artificial Intelligence Concentration  
 Concordia University St. Paul  
 CST 544 – Artificial Intelligence in Computer Vision
