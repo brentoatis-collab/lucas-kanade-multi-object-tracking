@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Using classical optical flow to analyze motion, trajectories, and activity in operational video.
+
 # Multi-Object Detection and Tracking Using Optical Flow
 
 **Brent Oatis**  
